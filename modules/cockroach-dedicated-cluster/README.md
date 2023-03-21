@@ -1,1 +1,0 @@
-Terraform module wrapper around this example: https://github.com/cockroachdb/terraform-provider-cockroach/tree/main/examples/workflows/cockroach_dedicated_cluster
